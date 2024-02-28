@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "press mysterious object to come closer.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
